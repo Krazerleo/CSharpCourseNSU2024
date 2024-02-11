@@ -1,1 +1,0 @@
-# CSharpCourseNSU2024
